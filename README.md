@@ -1,7 +1,7 @@
-- 👋 Hi i'm Kristian Hansson, an aspiring full-stack developer currently enrolled at Kodehode/Jobloop.
-- 👀 I’m interested in figuring out the logic of why something works! Delving deep into a particular subject and learning its ins and outs is my specialty!  ;)
-- 🌱 I’m currently learning Javascript and C#, still learning some HTML/CSS when working on projects but for now JS and C# is my main focus. I am enrolled at kodehode/jobloop, where i am taking a course on web development. The course teaches Javascript aswell as React. C# and .NET i am currently learning on the side and loving it!
-- 💞️ I’m looking to collaborate on fun and challenging projects. I can work on something i don't have a full understanding on, as long as people understand that learning takes away some efficiency!
+- 👋 Hei, jeg heter Kristian Hansson og er en aspirerende full-stack utvikler som for tiden studerer ved Kodehode/Jobloop.
+- 👀 Jeg er fascinert av å forstå logikken bak hvorfor ting fungerer som de gjør! Det å dykke dypt inn i et emne og lære alle detaljer er noe jeg virkelig brenner for! ;)
+- 🌱 Jeg deltar på et webutviklingskurs ved Kodehode/Jobloop, hvor vi lærer både Javascript og React. Parallelt med dette studerer jeg C# og .NET på egenhånd, noe jeg virkelig trives med! Samhandlingen mellom et JS bibliotek som React og et økosystem som .NET er interessant, og noe jeg fordyper meg i.
+- 💞️ Jeg er på utkikk etter å bidra i spennende og utfordrende prosjekter. Jeg er åpen for å jobbe med nye ting selv om jeg kanskje ikke har full forståelse enda, så lenge det fins forståelse med at læringsprosessen kan påvirke effektiviteten noe!
 
 <!---
 KristianB09/KristianB09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
