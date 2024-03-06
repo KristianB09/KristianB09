@@ -4,7 +4,7 @@
 - 💞️ Jeg er på utkikk etter å bidra i spennende og utfordrende prosjekter. Jeg er åpen for å jobbe med nye ting selv om jeg kanskje ikke har full forståelse enda, så lenge det fins forståelse med at læringsprosessen kan påvirke effektiviteten noe!
 
 <h1>Verktøy jeg bruker:</h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=20px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=100px />
 <!---
 KristianB09/KristianB09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
