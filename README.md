@@ -5,7 +5,7 @@
 
 <h1>Verktøy jeg bruker:</h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=80px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"  width=80px/>
 
 <!---
 KristianB09/KristianB09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
