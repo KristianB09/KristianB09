@@ -6,15 +6,15 @@
 <h1>Verktøy jeg bruker:</h1>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=80px align="center" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"  width=80px align="center" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=80px align="center" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width=80px align="center" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width=80px align="center" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=80px align="center" />
 </p>
 
