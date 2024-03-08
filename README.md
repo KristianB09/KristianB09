@@ -3,7 +3,10 @@
 - 🌱 Jeg deltar på et webutviklingskurs ved Kodehode/Jobloop, hvor vi lærer både Javascript og React. Parallelt med dette studerer jeg C# og .NET på egenhånd, noe jeg virkelig trives med! Samhandlingen mellom et JS bibliotek som React og et økosystem som .NET er interessant, og noe jeg fordyper meg i.
 - 💞️ Jeg er på utkikk etter å bidra i spennende og utfordrende prosjekter. Jeg er åpen for å jobbe med nye ting selv om jeg kanskje ikke har full forståelse enda, så lenge det fins forståelse med at læringsprosessen kan påvirke effektiviteten noe!
 
-<h2 float=left>Utdanning/sertifiseringer</h2> <h2 float=right>Hva lærer jeg nå?</h2>
+<div>
+  <h2 float=left>Utdanning/sertifiseringer</h2> <h2 float=right>Hva lærer jeg nå?</h2>
+</div>
+
 
 <h1>Verktøy jeg bruker:</h1>
 <p>
