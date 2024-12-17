@@ -1,4 +1,4 @@
-- 👋 Hei, jeg heter Kristian Hansson og er en aspirerende full-stack utvikler med erfaring fra EM Systemer AS, der jeg har jobbet med .NET og sensorintegrasjon.
+- 👋 Hei, jeg heter Kristian Hansson og er en full-stack utvikler fra EM Systemer AS, der jeg har jobbet med .NET, sensorintegrasjon og IoT, tillegg til co-browsing for nettsiden.
 
 - 👀 Jeg er fascinert av å forstå logikken bak hvorfor ting fungerer som de gjør! Det å dykke dypt inn i et emne og lære alle detaljer er noe jeg virkelig brenner for! ;)
   
