@@ -1,4 +1,4 @@
-- 👋 Hei, jeg heter Kristian Hansson og er en full-stack utvikler fra EM Systemer AS, der jeg jobber med .NET, sensorintegrasjon og IoT, tillegg til angular for frontend.
+- 👋 Hei, jeg heter Kristian Hansson og er en full-stack utvikler fra EM Systemer AS, der jeg jobber med .NET, sensorintegrasjon og IoT, tillegg til Angular for frontend.
 
 - 👀 Jeg er fascinert av å forstå logikken bak hvorfor ting fungerer som de gjør! Det å dykke dypt inn i et emne og lære alle detaljer er noe jeg virkelig brenner for! ;)
   
